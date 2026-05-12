@@ -40,7 +40,7 @@ if user_input:
 # 頁面初始化設定
 st.set_page_config(
 page_title="中科 AI 客服 - Chillcc顧問",
-page_icon=" ",
+page_icon="https://cdn-icons-png.flaticon.com/512/535/535239.png ",
 layout="wide" # "wide" 可利用全螢幕寬度,適合放置儀表板
 )
 
